@@ -6,3 +6,6 @@ This my personal testing Repo, dont open this up.
 
 [data drift](https://docs.evidentlyai.com/metrics/explainer_drift)
 [custom drift](https://docs.evidentlyai.com/metrics/customize_data_drift)
+[metrics viable in a report](https://docs.evidentlyai.com/metrics/all_metrics#how-to-read-the-tables)
+
+spark has inbuild PCA
